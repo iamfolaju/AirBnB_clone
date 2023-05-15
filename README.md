@@ -258,7 +258,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
     <summary>Abel Haileselassie</summary>
     <ul>
     <li><a href="https://www.github.com/iamfolaju">Github</a></li>
-    <li><a href="mailto:rickfaulous201@gmail.com">e-mail</a></li>
+    <li><a href="mailto:rickfabulous201@gmail.com">e-mail</a></li>
     <li><a href="https://www.github.com/">Github</a></li>
     <li><a href="mailto:abeldawit.h@gmail.com">e-mail</a></li>
     </ul>
